@@ -838,7 +838,7 @@ QBShared.Gangs = {
 		label = "Vagos"
 	},
 	["b4l"] = {
-		label = "marabunta"
+		label = "b4l"
 	},
 }
 
