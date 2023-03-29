@@ -1302,32 +1302,33 @@ QBShared.Jobs = {
 			},
 		},
 	},
-	["mechanic"] = { 
-		label = "Mechanics Shop",
-		bossmenu = vector3(-207.39, -1340.68, 34.89),
+	
+	["gotti"] = { 
+		label = "Gotti",
+		bossmenu = vector3(-1428.53, -458.44, 35.91),
 		defaultDuty = true,
 		grades = {
 			['0'] = {
 				name = "Mechanic",
-				payment = 7
+				payment = 500
 			},
 			['1'] = {
 				name = "Tow Operator",
-				payment = 8
+				payment = 350
 			},
 			['2'] = {
 				name = "Senior Mechanic",
-				payment = 9
+				payment = 750
 			},
 			['3'] = {
 				name = "Mechanic Shop Manager",
 				isboss = true,
-				payment = 10
+				payment = 1500
 			},
 			['4'] = {
 				name = "Mechanic Shop Owner",
 				isboss = true,
-				payment = 11
+				payment = 300000
 			},
 		},
 	},
