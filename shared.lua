@@ -825,7 +825,7 @@ QBShared.VehicleModels = {
 }
 
 QBShared.Gangs = {
-	["none"] = {
+	["b4l"] = {
 		label = "No Gang"
 	},
 	["ballas"] = {
@@ -837,7 +837,7 @@ QBShared.Gangs = {
 	["vagos"] = {
 		label = "Vagos"
 	},
-	["marabunta"] = {
+	["b4l"] = {
 		label = "marabunta"
 	},
 }
